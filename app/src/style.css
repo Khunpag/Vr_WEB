@@ -1,0 +1,244 @@
+.bg{
+    background-color: #1ADEBB; 
+    height: 100vh;
+}
+
+.hight-login{
+    background-color: crimson;
+}
+
+.set-center{
+    margin-top: 100px;
+}
+
+a{
+    text-decoration: none;
+    color: azure;
+    font-weight: 700;
+    padding: 16px;
+    background-color: cadetblue;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+}
+
+.m-top{
+    margin-top: 30px;
+}
+
+.m-down{
+    margin-bottom: 30px;
+}
+
+.pad-down{
+    padding-bottom: 16px;
+}
+
+.m-top-logo{
+    margin-top: 20px;
+}
+
+.m-top-logout{
+    margin-top: 366px;
+}
+
+.bg-red{
+    background-color: crimson;
+}
+
+.title{
+    background-color: darkgray;
+    color: azure;
+    padding: 20px;
+}
+
+.content{
+    background-color: lightgray;
+    height: 100%;
+}
+
+.content-add{
+    background-color: lightgray;
+    height: 105%;
+}
+
+.hight-one{
+    height: 85vh;
+}
+
+.hight-two{
+    height: 80vh;
+}
+
+.bg-white{
+    background-color: azure;
+}
+
+.pad-patient{
+    margin-top: 2%;
+}
+
+.m-l-p{
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+
+.pa-icon{
+    margin-left: 560px;
+}
+
+.bg-blue{
+    background-color: #12D7F2;
+    color: azure;
+}
+
+.bg-blue:hover{
+    background-color: #52e4f8;
+    color: #12D7F2;
+}
+
+.bg-green{
+    background-color: #29CE7F;
+    color: azure;
+}
+
+.bg-green:hover{
+    background-color: #57e29f;
+    color: #29CE7F;
+}
+
+.bg-yellow{
+    background-color: #CEC829;
+    color: azure;
+}
+
+.bg-yellow:hover{
+    background-color: #eeeb92;
+    color: #CEC829;
+}
+
+.bg-red-icon{
+    background-color: #E81037;
+    color: azure;
+}
+
+.bg-red-icon:hover{
+    background-color: #e15d75dd;
+    color: #E81037;
+}
+
+.overflow{
+    overflow-y: scroll;
+    height: 80%; 
+}
+
+.mar-con{
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.re-bor{
+    border: 0;
+}
+
+.m-right-add-pa{
+    margin-right:10px;
+}
+
+.button-add-p{
+    margin-left: 5px;
+    font-size: 18px;
+}
+
+.button1{
+    width: 40%;
+    padding: 1.5%;
+}
+
+.chart-btn{
+    margin-left: 10px;
+}
+
+.search-bar{
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+
+.sex-btn{
+    width: 40%;
+    margin-right: 20px;
+}
+
+.birth-btn{
+    width: 40%;
+}
+
+.time-btn{
+    width: 45%;
+}
+
+.time-m-left{
+    margin-left: 20%;
+}
+
+.m-right20{
+    margin-right: 20px;
+}
+
+.neck-btn{
+    width: 40%;
+}
+
+.arm-btn{
+    width: 40%;
+}
+
+.we-btn{
+    width: 40%;
+}
+
+.he-btn{
+    width: 40%;
+}
+
+.bust-btn{
+    width: 29%;
+}
+
+.m-b1{
+    margin-bottom: 1%;
+}
+
+.login-btn{
+    width: 90%;
+}
+
+.g2-btn{
+    width: 45%;
+}
+
+.g3-btn{
+    width: 45%;
+}
+
+.di-btn{
+    height: 100px;
+    /* box-sizing: border-box; */
+    /* resize: none; */
+}
+
+.ad-sub-btn{
+    margin-top: 10px;
+    margin-left: 450px;
+}
+
+.ad-sub{
+    margin-right: 10px;
+}
+
+.hospital-icon{
+    width: 125px;
+    margin-bottom: 20px;
+}
